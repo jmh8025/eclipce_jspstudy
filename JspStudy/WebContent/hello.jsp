@@ -16,6 +16,6 @@ out.println("<h1>"+"웹에 출력하기 str=>"+str+"</h1>");
 %>
 <hr>
 str값출력=<%=str %>
-222
+22222
 </body>
 </html>
