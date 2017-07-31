@@ -14,5 +14,6 @@ String str="홍길동";
 System.out.println("str=>"+str);//디버깅용으로 콘솔에 출력시켜보리기
 out.println("<h1>"+"웹에 출력하기 str=>"+str+"</h1>");
 %>
+<%=str %>
 </body>
 </html>
